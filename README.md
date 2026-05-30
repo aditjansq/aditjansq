@@ -36,7 +36,19 @@ Currently working with React and Next.js while expanding my expertise in advance
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditjansq&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=aditjansq&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditjansq&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+<td>
+
+<img height="170" src="https://streak-stats.demolab.com?user=aditjansq&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
