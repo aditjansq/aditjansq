@@ -38,6 +38,5 @@ Currently working with React and Next.js while expanding my expertise in advance
 
 <p>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditjansq&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://komarev.com/ghpvc/?username=aditjansq&style=flat-square&color=blue" />
-</p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditjansq&theme=github-dark&hide_border=true" />
 </p>
