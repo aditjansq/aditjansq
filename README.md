@@ -36,8 +36,6 @@ Currently working with React and Next.js while expanding my expertise in advance
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <table>
 <tr>
 <td>
