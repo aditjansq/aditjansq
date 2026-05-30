@@ -12,7 +12,7 @@
 
 Frontend Developer focused on building clean, modern, and interactive web applications.
 
-Currently working with Next.js and React while expanding my expertise in advanced React patterns, backend development, and scalable architectures.
+Currently working with React and Next.js while expanding my expertise in advanced React patterns, backend development, and scalable architectures.
 
 </td>
 </tr>
