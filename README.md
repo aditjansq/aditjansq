@@ -1,35 +1,36 @@
 # Hi, I'm Adit 👋
 
-<p align="center">
-  <img width="140" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-</p>
+<table>
+<tr>
+<td width="160">
+
+<img width="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
+</td>
+
+<td>
 
 Frontend Developer focused on building clean, modern, and interactive web applications.
 
 Currently working with Next.js and React while expanding my expertise in advanced React patterns, backend development, and scalable architectures.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,express,mongodb,mysql,figma" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React Patterns
-- Full Stack Architecture
-- Performance Optimization
-- System Design
 
 ---
 
