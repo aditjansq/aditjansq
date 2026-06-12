@@ -40,7 +40,7 @@ Currently working with React and Next.js while expanding my expertise in advance
 <tr>
 <td>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditjansq&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditjansq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 </td>
 <td>
