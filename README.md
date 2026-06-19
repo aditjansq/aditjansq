@@ -20,7 +20,7 @@ Currently working with React and Next.js while expanding my expertise in advance
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,express,mongodb,mysql,figma" />
