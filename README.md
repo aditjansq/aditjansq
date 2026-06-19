@@ -1,4 +1,4 @@
-# hi, i'm Adit 👋🏻
+# hi, i'm adit 👋🏻
 
 <table>
 <tr>
@@ -10,9 +10,9 @@
 
 <td>
 
-Frontend Developer focused on building clean, modern, and interactive web applications.
+frontend developer focused on building clean, modern, and interactive web applications.
 
-Currently working with React and Next.js while expanding my expertise in advanced React patterns, backend development, and scalable architectures.
+currently working with react and next.js while expanding my expertise in advanced react patterns, backend development, and scalable architectures.
 
 </td>
 </tr>
