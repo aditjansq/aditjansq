@@ -34,7 +34,7 @@ currently working with react and next.js while expanding my expertise in advance
 
 ---
 
-## 🐈‍⬛ gitHub stats
+## 🐈‍⬛ github stats
 
 <table>
 <tr>
