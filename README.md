@@ -1,4 +1,4 @@
-# hi, i'm adit! 👋🏻
+# hi, i'm adit 👋🏻
 
 <table>
 <tr>
